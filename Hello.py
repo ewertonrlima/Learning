@@ -3,6 +3,7 @@ import random
 def main ():
 
 'comment added for test purpose
+'second comment
 
 	print "Este jogo ajuda voce a adivinhar um numero"
 	print "Digite um numero e depois Enter"
