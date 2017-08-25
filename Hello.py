@@ -2,6 +2,8 @@ import random
 
 def main ():
 
+'comment added for test purpose
+
 	print "Este jogo ajuda voce a adivinhar um numero"
 	print "Digite um numero e depois Enter"
 	randonnumber = random.randint(1,100)
